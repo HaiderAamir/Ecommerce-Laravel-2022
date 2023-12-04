@@ -1,0 +1,23 @@
+.menu-banner-wrap
+            {
+                background-image: url("../category/bottle image.jpg");
+            }
+
+            .loginbox{
+                z-index: 1;
+                background-color: #ffffff;
+                position: absolute;
+                width: 120%;
+                height: 100px;
+                top: 25px;
+                display: none;
+            }
+            .loginmenu{
+                text-align: center;
+                margin-top: 10px;
+                border-radius: 10px;
+            }
+            .loginitem{
+                padding-top: 5px;
+                font-size: 1.2em;
+            }
